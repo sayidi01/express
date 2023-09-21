@@ -1,0 +1,21 @@
+a {
+    color: unset !important;
+    text-decoration: none;
+}
+
+#prd {
+    justify-content: space-between;
+    
+   
+}
+
+
+#bd {
+    background-color: lightgreen;
+    margin-top: 20%;
+}
+
+
+#tit {
+    margin-bottom: 30px;
+}
